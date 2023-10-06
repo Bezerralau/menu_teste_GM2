@@ -10,3 +10,11 @@ amount_current = amount * 100;
 amount_current = 0;
 }
 }
+
+if (global.currentVolumeSelection == 0) {
+    
+    image_index = 1;
+} else {
+    
+    image_index = 0;
+}

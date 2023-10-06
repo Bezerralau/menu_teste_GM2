@@ -2,7 +2,7 @@
 // Você pode escrever seu código neste editor
 
 if (keyboard_check_pressed(vk_enter) && global.currentSelection == 1) {
-     instance_deactivate_object(obj_btnJogar); 
+    instance_deactivate_object(obj_btnJogar); 
     instance_deactivate_object(obj_btnConfig); 
     instance_deactivate_object(obj_btnSair);
 	
