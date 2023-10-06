@@ -53,7 +53,6 @@
     {"id":{"name":"spr_popup","path":"sprites/spr_popup/spr_popup.yy",},},
     {"id":{"name":"snd_theme","path":"sounds/snd_theme/snd_theme.yy",},},
     {"id":{"name":"obj_btnJogar","path":"objects/obj_btnJogar/obj_btnJogar.yy",},},
-    {"id":{"name":"obj_controle","path":"objects/obj_controle/obj_controle.yy",},},
     {"id":{"name":"spr_knob","path":"sprites/spr_knob/spr_knob.yy",},},
     {"id":{"name":"spr_bar","path":"sprites/spr_bar/spr_bar.yy",},},
     {"id":{"name":"obj_popup_sair","path":"objects/obj_popup_sair/obj_popup_sair.yy",},},
